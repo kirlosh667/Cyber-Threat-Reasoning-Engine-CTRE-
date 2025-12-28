@@ -1,0 +1,31 @@
+Time,Activity,Status
+18:16,File downloaded from company portal,NORMAL
+18:17,DNS query to microsoft.com,NORMAL
+18:18,User logged into Office365,NORMAL
+18:19,User logged into Office365,NORMAL
+18:20,User logged into Office365,NORMAL
+18:21,Email sent via Outlook,NORMAL
+18:22,Email sent via Outlook,NORMAL
+18:23,User logged into Office365,NORMAL
+18:24,HTTP request to google.com,NORMAL
+18:25,HTTP request to google.com,NORMAL
+18:26,ALERT: Multiple failed SSH login attempts,ATTACK
+18:27,File downloaded from company portal,NORMAL
+18:28,Email sent via Outlook,NORMAL
+18:29,DNS query to microsoft.com,NORMAL
+18:30,DNS query to microsoft.com,NORMAL
+18:31,HTTP request to google.com,NORMAL
+18:32,HTTP request to google.com,NORMAL
+18:33,User logged into Office365,NORMAL
+18:34,ALERT: IoT camera attempted SSH login,ATTACK
+18:35,HTTP request to google.com,NORMAL
+18:36,User logged into Office365,NORMAL
+18:37,HTTP request to google.com,NORMAL
+18:38,HTTP request to google.com,NORMAL
+18:39,Email sent via Outlook,NORMAL
+18:40,HTTP request to google.com,NORMAL
+18:41,ALERT: IoT camera attempted SSH login,ATTACK
+18:42,File downloaded from company portal,NORMAL
+18:43,DNS query to microsoft.com,NORMAL
+18:44,DNS query to microsoft.com,NORMAL
+18:45,User logged into Office365,NORMAL
